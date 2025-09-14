@@ -1,4 +1,4 @@
 # Tressure-Matrix
-This is my First Repository.
+This is my Frst Repository.
 <br>
 Author - Hariom Yadav.
